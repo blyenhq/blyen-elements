@@ -1,0 +1,10 @@
+# MacOS
+.DS_Store
+
+## JetBrains
+.idea
+
+# Dependency directories (remove the comment below to include it)
+node_modules
+package-lock.json
+
